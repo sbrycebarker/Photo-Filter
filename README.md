@@ -6,3 +6,6 @@ Web app that lets you upload an image to a canvas and add filters and effects us
 
 * Javascript
 * [CamanJs](http://camanjs.com/) 
+* Bootstrap
+* HTML5
+* CSS3
